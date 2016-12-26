@@ -4,4 +4,4 @@
 png(file = "plot1.png")
 hist(data_s$Global_active_power,col="red",xlab="Global active power (kilowatts)",main="Global active power")
 dev.off()
-## Now you can view the file 'myplot.pdf' on your computer
+## Now you can view the file 'plot1.png' on your computer
